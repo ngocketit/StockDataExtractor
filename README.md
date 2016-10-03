@@ -1,4 +1,4 @@
 StockDataExtractor
 ==================
 
-A simple program to automatically extract stock data from the Web
+A simple Qt/C++ program to automatically extract stock data from the Web
